@@ -26,8 +26,6 @@
 ![GitKraken](https://img.shields.io/badge/-GitKraken-%23333333?style=flat&logo=GitKraken)
 ![github](https://img.shields.io/badge/-GitHub-%23000000?style=flat&logo=github)
 ![vscode](https://img.shields.io/badge/-VSCode-%23333333?style=flat&logo=visual-studio-code&logoColor=%23007ACC)
-![prettier](https://img.shields.io/badge/-Prettier-%23000000?style=flat&logo=prettier)
-![sketch](https://img.shields.io/badge/-Sketch-%23000000?style=flat&logo=sketch)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayting&show_icons=true&theme=gotham)
 
